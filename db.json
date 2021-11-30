@@ -1,0 +1,72 @@
+{
+  "bg": "https://cinema10.com.br/upload/noticias/2019-2/1278fc5e38.jpg",
+  "title": "Programação Orientada a Objetos",
+  "description": "Teste os seus conhecimentos sobre POO",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif",
+      "title": "Quando falamos em atributos estamos nos referindo a(s):",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Características do objeto",
+        "Identidade do objeto",
+        "Funcionalidades do objeto",
+        "Operações do objeto"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oKIPjHCmuXqdVvak8/giphy.gif",
+      "title": "Uma classe abstrata existe para servir de referência para a criação de outras classes",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Concretas",
+        "Encapsuladas",
+        "Abstratas",
+        "Polimórficas"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/GI1kfuiI4Tzgc/giphy.gif",
+      "title": "O Polimorfismo:",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Permite que uma função possa ser usada em qualquer parte do sistema",
+        "Pode ser exemplificada como o trotar dos cavalo e o nadar dos peixes",
+        "Pode ser exemplificado com as ações latir do e andar da carruagem",
+        "Nunca é usado na O.O."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif",
+      "title": "O mundo real é formado por coisas e, para orientação a objetos essas coisas são denominadas objetos. Qual a definição de objeto?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Trata-se da instância de um método",
+        "Trata-se da instância de uma classe",
+        "Trata-se da instância de um programa",
+        "Trata-se da instância de uma IDE"
+      ]
+    }
+  ],
+  "external": [
+    "https://1sec-quiz.victoroda.vercel.app/",
+    "https://bitter-brewing-quiz.afuscella.vercel.app/",
+    "https://doctor-who-quiz.emanuelpna.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#22293b",
+      "secondary": "#151e2d",
+      "mainBg": "#151e2d",
+      "contrastText": "#FFFFFF",
+      "wrong": "#9a2b34",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
+  
