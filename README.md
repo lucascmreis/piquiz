@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/quiz-everybody-hates-chris/blob/main/assets/logo.png" alt="Everybody-Hates-Chris" />
+  <img src="https://github.com/lucascmreis/piquiz/blob/main/assets/logo.png" alt="PiQuiz" />
 </p>
 <h1 align="center">
     🚀 PiQuiz
