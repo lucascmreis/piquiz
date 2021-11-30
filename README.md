@@ -30,7 +30,7 @@
 A aplicação é um quiz sobre questões do universo da ciencia da computação 
 
 ### ✅ Resultados
-<img src="" />
+<img src="https://github.com/lucascmreis/piquiz/blob/main/assets/app.png" />
 
 ### 📎 Features
 
