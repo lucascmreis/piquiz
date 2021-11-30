@@ -50,7 +50,7 @@ const Home: React.FC = () => {
 
       <Footer />
 
-      <GihubCorner projectUrl="https://github.com/gabriel-nt" />
+      <GihubCorner projectUrl="https://github.com/lucascmreis/piquiz" />
     </QuizBackground>
   );
 };
